@@ -1,5 +1,4 @@
 [AutoProxy 0.1.0]
-! Checksum: 2Uj3Lce99Uxx7shvmKtHeA
 @@https://mail.google.com
 @@http://www.google.com.hk
 google.com
