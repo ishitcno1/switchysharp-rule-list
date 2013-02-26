@@ -1,5 +1,7 @@
 [AutoProxy 0.1.0]
-@@http://www.google.com.hk
+youtube.com
 !To use youtube, you must add 'google.com' in the list.
 google.com
-youtube.com
+@@http://www.google.com.hk
+
+
