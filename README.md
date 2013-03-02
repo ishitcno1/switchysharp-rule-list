@@ -1,4 +1,4 @@
 switchysharp-rule-list
 ======================
 
-A rule list for SwitchySharp. 
+A rule list for AutoProxy. 
