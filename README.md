@@ -1,4 +1,5 @@
-switchysharp-rule-list
+Proxy rule list
 ======================
+autoproxy_rule_list.txt is for autoproxy in firefox.
 
-A rule list for AutoProxy. 
+switchysharp_rule_list.txt is for switchysharp in chrome.
