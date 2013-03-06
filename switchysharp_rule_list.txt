@@ -1,0 +1,11 @@
+#BEGIN
+
+[wildcard]
+*://*.blogspot.com/*
+*://*.wordpress.com/*
+*://*.youtube.com/*
+
+[regexp]
+
+
+#END
