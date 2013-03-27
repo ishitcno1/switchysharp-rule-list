@@ -4,6 +4,15 @@
 *://*.blogspot.com/*
 *://*.wordpress.com/*
 *://*.youtube.com/*
+http://*.google.com/*
+*://*.pixnet.net/*
+*://sites.google.com/*
+*://www.oracle.com/*
+*://5i01.com/*
+*://*.mobile01.com/*
+*://www.coursera.org/*
+*://www.udacity.com/*
+*://*.sourceforge.net/*
 
 [regexp]
 
