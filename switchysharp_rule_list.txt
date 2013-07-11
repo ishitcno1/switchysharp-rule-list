@@ -13,6 +13,7 @@ http://*.google.com/*
 *://www.coursera.org/*
 *://www.udacity.com/*
 *://*.sourceforge.net/*
+*://*.dryicons.com/*
 
 [regexp]
 

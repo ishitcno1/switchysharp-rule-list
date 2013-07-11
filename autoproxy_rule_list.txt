@@ -1,9 +1,0 @@
-[AutoProxy 0.1.0]
-youtube.com
-!To use youtube, you must add 'google.com' in the list.
-google.com
-@@http://www.google.com.hk
-xinetd.org
-wordpress.com
-blogspot.com
-
