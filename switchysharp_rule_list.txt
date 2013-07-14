@@ -5,6 +5,7 @@
 *://*.wordpress.com/*
 *://*.youtube.com/*
 http://*.google.com/*
+!*://*.google.com.hk/*
 *://*.pixnet.net/*
 *://sites.google.com/*
 *://www.oracle.com/*
