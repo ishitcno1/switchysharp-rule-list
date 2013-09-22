@@ -1,5 +1,5 @@
 [AutoProxy 0.1.0]
-! Checksum: cVTLGvcsI4aSZD1gpNBnBg
+
 blogspot.com
 wordpress.com
 youtube.com
