@@ -3,6 +3,7 @@
 blogspot.com
 wordpress.com
 youtube.com
+ytimg.com
 pixnet.net
 sites.google.com
 www.oracle.com

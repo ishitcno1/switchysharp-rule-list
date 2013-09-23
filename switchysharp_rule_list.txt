@@ -4,6 +4,7 @@
 *://*.blogspot.com/*
 *://*.wordpress.com/*
 *://*.youtube.com/*
+*://*.ytimg.com/*
 http://*.google.com/*
 !*://*.google.com.hk/*
 *://*.pixnet.net/*
