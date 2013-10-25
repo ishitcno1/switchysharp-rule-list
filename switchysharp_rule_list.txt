@@ -12,13 +12,15 @@ http://*.google.com/*
 *://www.oracle.com/*
 *://5i01.com/*
 *://*.mobile01.com/*
-*://www.coursera.org/*
 *://www.udacity.com/*
 *://*.sourceforge.net/*
 *://*.dryicons.com/*
 *://zh.wikipedia.org/*
+*://stackoverflow.com/*
 
 [regexp]
 
 
 #END
+
+
