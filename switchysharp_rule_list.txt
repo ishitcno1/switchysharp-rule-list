@@ -7,6 +7,12 @@
 *://*.ytimg.com/*
 http://*.google.com/*
 !*://*.google.com.hk/*
+*://plus.google.com/*
+*://*.appspot.com/*
+*://code.google.com/*
+*://bbs.skykiwi.com/*
+*://*.slideshare.net/*
+*://twitter.com/*
 *://*.pixnet.net/*
 *://sites.google.com/*
 *://www.oracle.com/*
