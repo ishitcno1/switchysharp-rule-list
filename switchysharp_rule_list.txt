@@ -23,6 +23,10 @@ http://*.google.com/*
 *://*.dryicons.com/*
 *://zh.wikipedia.org/*
 *://stackoverflow.com/*
+*://forum.xda-developers.com/*
+*://stackoverflow.com/*
+*://cdn.sstatic.net/*
+*://edge.quantserve.com/*
 
 [regexp]
 
