@@ -27,6 +27,27 @@ http://*.google.com/*
 *://stackoverflow.com/*
 *://cdn.sstatic.net/*
 *://edge.quantserve.com/*
+*://www.rolia.net/*
+*://bit.ly/*
+*://tw.knowledge.yahoo.com/*
+*://home.gamer.com.tw/*
+*://*.isohunt.to/*
+*://commondatastorage.googleapis.com/*
+*://*.blogspot.dk/*
+*://*.fastly.net/*
+*://*.sstatic.net/*
+*://loopjs.com/*
+*://www.omgubuntu.co.uk/*
+*://androidexample.com/*
+*://www.nzherald.co.nz/*
+*://www.scaine.net/*
+*://blog.mathieucarbou.me/*
+*://www.varaneckas.com/*
+*://nerdanswer.com/*
+*://www.imdb.com/*
+*://gigaom.com/*
+*://www.wretch.cc/*
+*://blog.xuite.net/*
 
 [regexp]
 
