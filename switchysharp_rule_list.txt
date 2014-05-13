@@ -1,6 +1,9 @@
 #BEGIN
 
 [wildcard]
+*://groups.google.com/*
+*://docs.google.com/*
+*://jenkins-ci.org/*
 *://*.blogspot.com/*
 *://*.wordpress.com/*
 *://*.youtube.com/*
