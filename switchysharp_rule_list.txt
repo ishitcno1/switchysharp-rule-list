@@ -1,6 +1,7 @@
 #BEGIN
 
 [wildcard]
+*://ubuntuforums.org/*
 *://groups.google.com/*
 *://docs.google.com/*
 *://jenkins-ci.org/*
