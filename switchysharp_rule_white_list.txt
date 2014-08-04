@@ -5,8 +5,11 @@
 *://*.baidu.com/*
 *://*.bing.com/*
 
+*://*.csdn.net/*
+
 *://*.sohu.com/*
 *://*.youku.com/*
+*://*.soku.com/*
 
 *://*.jd.com/*
 *://*.yhd.com/*
@@ -16,6 +19,8 @@
 *://*.163.com/*
 *://*.sina.com/*
 *://*.ifeng.com/*
+
+*://*.ppurl.com/*
 
 [regexp]
 
