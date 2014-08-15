@@ -1,26 +1,48 @@
 #BEGIN
 
 [wildcard]
-*://*.*.cn/*
-*://*.baidu.com/*
-*://*.bing.com/*
+*://*.cn/*
 
-*://*.csdn.net/*
 
-*://*.sohu.com/*
-*://*.youku.com/*
-*://*.soku.com/*
+*://*163.com/*
 
-*://*.jd.com/*
-*://*.yhd.com/*
+*://*51cto.com/*
 
-*://*.douban.com/*
-*://weibo.com/*
-*://*.163.com/*
-*://*.sina.com/*
-*://*.ifeng.com/*
+*://*baidu.com/*
+*://*bing.com/*
 
-*://*.ppurl.com/*
+*://*cocoachina.com/*
+*://*csdn.net/*
+
+*://*douban.com/*
+*://*douban.fm/*
+
+*://*eoeandroid.com/*
+
+*://*huaban.com/*
+
+*://*ifeng.com/*
+*://*infoq.com/*
+
+*://*jd.com/*
+
+*://*ppurl.com/*
+
+*://*sina.com/*
+*://*sohu.com/*
+*://*soku.com/*
+
+*://*taobao.com/*
+*://*tmall.com/*
+
+*://*weibo.com/*
+
+*://*xianguo.com/*
+
+*://*youku.com/*
+*://*yhd.com/*
+
+*://*zhihu.com/*
 
 [regexp]
 
