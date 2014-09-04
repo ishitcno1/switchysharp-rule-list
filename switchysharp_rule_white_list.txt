@@ -4,45 +4,45 @@
 *://*.cn/*
 
 
-*://*163.com/*
+*://*.163.com/*
 
-*://*51cto.com/*
+*://*.51cto.com/*
 
-*://*baidu.com/*
-*://*bing.com/*
+*://*.baidu.com/*
+*://*.bing.com/*
 
-*://*cocoachina.com/*
-*://*csdn.net/*
+*://*.cocoachina.com/*
+*://*.csdn.net/*
 
-*://*douban.com/*
-*://*douban.fm/*
+*://*.douban.com/*
+*://douban.fm/*
 
-*://*eoeandroid.com/*
+*://*.eoeandroid.com/*
 
-*://*huaban.com/*
+*://*.huaban.com/*
 
-*://*ifeng.com/*
-*://*infoq.com/*
+*://*.ifeng.com/*
+*://*.infoq.com/*
 
-*://*jd.com/*
+*://jd.com/*
 
-*://*ppurl.com/*
+*://*.ppurl.com/*
 
-*://*sina.com/*
-*://*sohu.com/*
-*://*soku.com/*
+*://*.sina.com/*
+*://*.sohu.com/*
+*://*.soku.com/*
 
-*://*taobao.com/*
-*://*tmall.com/*
+*://*.taobao.com/*
+*://tmall.com/*
 
-*://*weibo.com/*
+*://weibo.com/*
 
-*://*xianguo.com/*
+*://*.xianguo.com/*
 
-*://*youku.com/*
-*://*yhd.com/*
+*://*.youku.com/*
+*://*.yhd.com/*
 
-*://*zhihu.com/*
+*://zhihu.com/*
 
 [regexp]
 
