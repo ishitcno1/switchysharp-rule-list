@@ -2,23 +2,16 @@
 
 [wildcard]
 *://ubuntuforums.org/*
-*://groups.google.com/*
-*://docs.google.com/*
 *://jenkins-ci.org/*
 *://*.blogspot.com/*
 *://*.wordpress.com/*
-*://*.youtube.com/*
 *://*.ytimg.com/*
-http://*.google.com/*
-!*://*.google.com.hk/*
-*://plus.google.com/*
 *://*.appspot.com/*
 *://code.google.com/*
 *://bbs.skykiwi.com/*
 *://*.slideshare.net/*
 *://twitter.com/*
 *://*.pixnet.net/*
-*://sites.google.com/*
 *://www.oracle.com/*
 *://5i01.com/*
 *://*.mobile01.com/*
@@ -52,6 +45,13 @@ http://*.google.com/*
 *://gigaom.com/*
 *://www.wretch.cc/*
 *://blog.xuite.net/*
+
+
+*://www.google.com.sg/*
+*://*.google.com/*
+*://*.youtube.com/*
+*://*.gstatic.com/*
+*://s.ytimg.com/*
 
 [regexp]
 
