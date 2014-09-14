@@ -49,6 +49,7 @@
 
 *://www.google.com.sg/*
 *://*.google.com/*
+*://*.googleapis.com/*
 *://*.youtube.com/*
 *://*.gstatic.com/*
 *://s.ytimg.com/*
