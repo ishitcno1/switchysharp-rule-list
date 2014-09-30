@@ -26,7 +26,6 @@
 *://cdn.sstatic.net/*
 *://edge.quantserve.com/*
 *://www.rolia.net/*
-*://bit.ly/*
 *://tw.knowledge.yahoo.com/*
 *://home.gamer.com.tw/*
 *://*.isohunt.to/*
@@ -56,6 +55,10 @@
 *://*.gstatic.com/*
 *://s.ytimg.com/*
 *://*.android.com/*
+
+*://goo.gl/*
+*://t.co/*
+*://bit.ly/*
 
 [regexp]
 
