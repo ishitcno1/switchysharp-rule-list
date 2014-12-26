@@ -6,8 +6,10 @@
 *://*.android.com/*
 *://androidexample.com/*
 *://*.appspot.com/*
+*://*.asana.com/*
 
 *://bit.ly/*
+*://*.blogger.com/*
 *://*.blogspot.com/*
 *://*.blogspot.dk/*
 *://*.blogspot.sg/*
@@ -15,11 +17,14 @@
 *://dangrover.com/*
 *://*.dryicons.com/*
 
+*://*.endmemo.com/*
+
 *://*.fastly.net/*
 
 *://home.gamer.com.tw/*
 *://gigaom.com/*
 *://*.github.com/*
+*://git-scm.com/*
 *://goo.gl/*
 *://code.google.com/*
 *://*.google.com/*
@@ -59,6 +64,7 @@
 
 *://t.co/*
 *://twitter.com/*
+*://*.typekit.com/*
 
 *://ubuntuforums.org/*
 *://www.udacity.com/*
