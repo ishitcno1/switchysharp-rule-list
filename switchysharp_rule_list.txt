@@ -44,6 +44,7 @@
 *://*.mobile01.com/*
 
 *://nerdanswer.com/*
+*://nodejs.org/*
 *://www.nzherald.co.nz/*
 
 *://www.omgubuntu.co.uk/*
@@ -65,12 +66,14 @@
 *://t.co/*
 *://twitter.com/*
 *://*.typekit.com/*
+*://*.typekit.net/*
 
 *://ubuntuforums.org/*
 *://www.udacity.com/*
 
 *://www.varaneckas.com/*
 
+*://*.webmproject.org/*
 *://zh.wikipedia.org/*
 *://*.wordpress.com/*
 *://www.wretch.cc/*
