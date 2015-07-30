@@ -28,6 +28,7 @@
 *://goo.gl/*
 *://code.google.com/*
 *://*.google.com/*
+*://*.google.com.hk/*
 *://*.google.com.sg/*
 *://*.googleapis.com/*
 *://*.googlecode.com/*
@@ -71,12 +72,14 @@
 *://ubuntuforums.org/*
 *://www.udacity.com/*
 
+*://*.v2ex.com/*
 *://www.varaneckas.com/*
 
 *://*.webmproject.org/*
 *://zh.wikipedia.org/*
 *://*.wordpress.com/*
 *://www.wretch.cc/*
+*://*.wsj.com/*
 
 *://forum.xda-developers.com/*
 *://blog.xuite.net/*
