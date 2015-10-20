@@ -91,6 +91,8 @@
 *://*.ytimg.com/*
 
 *://*.facebook.com
+*://*.facebook.net
+*://*.fbcdn.net
 [regexp]
 
 #END
