@@ -86,6 +86,7 @@
 
 *://tw.knowledge.yahoo.com/*
 *://*.youtube.com/*
+*://*.youtu.be/*
 *://*.ytimg.com/*
 [regexp]
 
