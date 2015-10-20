@@ -85,9 +85,12 @@
 *://blog.xuite.net/*
 
 *://tw.knowledge.yahoo.com/*
+
 *://*.youtube.com/*
 *://*.youtu.be/*
 *://*.ytimg.com/*
+
+*://*.facebook.com
 [regexp]
 
 #END
