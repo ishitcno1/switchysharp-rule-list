@@ -97,6 +97,8 @@
 *://*.cloudfront.net
 
 *://*.dropbox.com
+
+*://*.gmail.com
 [regexp]
 
 #END
