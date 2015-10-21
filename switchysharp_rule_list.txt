@@ -93,6 +93,8 @@
 *://*.facebook.com
 *://*.facebook.net
 *://*.fbcdn.net
+
+*://*.cloudfront.net
 [regexp]
 
 #END
