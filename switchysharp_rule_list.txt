@@ -1,6 +1,8 @@
 #BEGIN
 
 [wildcard]
+*://behance.net/*
+
 *://5i01.com/*
 
 *://*.android.com/*
