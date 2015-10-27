@@ -26,6 +26,7 @@
 *://home.gamer.com.tw/*
 *://gigaom.com/*
 *://*.github.com/*
+*://*.github.io/*
 *://git-scm.com/*
 *://goo.gl/*
 *://code.google.com/*
@@ -35,6 +36,7 @@
 *://*.googleapis.com/*
 *://*.googlecode.com/*
 *://*.gstatic.com/*
+*://*.googlesyndication.com/*
 
 *://www.imdb.com/*
 *://*.isohunt.to/*
