@@ -1,6 +1,8 @@
 #BEGIN
 
 [wildcard]
+*://cafepress.com/*
+
 *://behance.net/*
 
 *://5i01.com/*
