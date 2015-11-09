@@ -1,6 +1,8 @@
 #BEGIN
 
 [wildcard]
+*://wp.com/*
+*://gravatar.com/*
 *://cafepress.com/*
 
 *://behance.net/*
