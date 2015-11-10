@@ -1,6 +1,7 @@
 #BEGIN
 
 [wildcard]
+*://chaijs.com/*
 *://lodash.com/*
 *://wp.com/*
 *://gravatar.com/*
