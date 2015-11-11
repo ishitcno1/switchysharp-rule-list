@@ -1,6 +1,7 @@
 #BEGIN
 
 [wildcard]
+*://odetocode.com/*
 *://chaijs.com/*
 *://lodash.com/*
 *://wp.com/*
