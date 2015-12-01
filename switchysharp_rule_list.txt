@@ -32,12 +32,12 @@
 *://*.fastly.net/*
 
 *://home.gamer.com.tw/*
-*://*.gigaom.com/*
+*://gigaom.com/*
 *://*.github.com/*
 *://*.github.io/*
-*://*.git-scm.com/*
-*://*.goo.gl/*
-*://*.code.google.com/*
+*://git-scm.com/*
+*://goo.gl/*
+*://code.google.com/*
 *://*.google.com/*
 *://*.google.com.hk/*
 *://*.google.com.sg/*
@@ -103,10 +103,9 @@
 *://*.youtu.be/*
 *://*.ytimg.com/*
 
-*://*.fbinfer.com/*
-*://*.facebook.com/*
-*://*.facebook.net/*
-*://*.fbcdn.net/*
+*://*.facebook.com
+*://*.facebook.net
+*://*.fbcdn.net
 
 *://*.cloudfront.net
 
