@@ -103,6 +103,7 @@
 *://*.youtu.be/*
 *://*.ytimg.com/*
 
+*://fbinfer.com/*
 *://*.facebook.com
 *://*.facebook.net
 *://*.fbcdn.net
