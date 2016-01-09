@@ -1,7 +1,8 @@
 #BEGIN
 
 [wildcard]
-*://*.amazonaws.com/*
+*://streak.com/*
+*://amazonaws.com/*
 
 *://thegeekstuff.com/*
 *://odetocode.com/*
