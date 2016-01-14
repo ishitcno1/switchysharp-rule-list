@@ -1,6 +1,7 @@
 #BEGIN
 
 [wildcard]
+*://strongloop.com/*
 *://streak.com/*
 *://amazonaws.com/*
 
