@@ -1,6 +1,8 @@
 #BEGIN
 
 [wildcard]
+*://nuclide.io/*
+
 *://strongloop.com/*
 *://streak.com/*
 *://amazonaws.com/*
