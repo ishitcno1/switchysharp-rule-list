@@ -53,6 +53,7 @@
 *://*.gstatic.com/*
 *://*.googlesyndication.com/*
 *://*.googleusercontent.com/*
+*://*.tiltbrush.com/*
 
 *://www.imdb.com/*
 *://*.isohunt.to/*
