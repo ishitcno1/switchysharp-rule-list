@@ -5,6 +5,8 @@
 
 *://*strongloop.com/*
 *://*.streak.com/*
+
+*://*.amazon.com/*
 *://*.amazonaws.com/*
 
 *://thegeekstuff.com/*
