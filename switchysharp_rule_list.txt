@@ -1,11 +1,11 @@
 #BEGIN
 
 [wildcard]
-*://nuclide.io/*
+*://*.nuclide.io/*
 
-*://strongloop.com/*
-*://streak.com/*
-*://amazonaws.com/*
+*://*strongloop.com/*
+*://*.streak.com/*
+*://*.amazonaws.com/*
 
 *://thegeekstuff.com/*
 *://odetocode.com/*
@@ -21,11 +21,11 @@
 *://5i01.com/*
 
 *://*.android.com/*
-*://androidexample.com/*
+*://*.androidexample.com/*
 *://*.appspot.com/*
 *://*.asana.com/*
 
-*://bit.ly/*
+*://*.bit.ly/*
 *://*.blogger.com/*
 *://*.blogspot.com/*
 *://*.blogspot.dk/*
