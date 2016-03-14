@@ -50,6 +50,7 @@
 *://*.google.com/*
 *://*.google.com.hk/*
 *://*.google.com.sg/*
+*://*.google.co.uk/*
 *://*.googleapis.com/*
 *://*.googlecode.com/*
 *://*.gstatic.com/*
