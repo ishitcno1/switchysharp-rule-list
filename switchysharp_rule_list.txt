@@ -1,6 +1,8 @@
 #BEGIN
 
 [wildcard]
+*://*.wistia.net/*
+
 *://*.nuclide.io/*
 
 *://*strongloop.com/*
