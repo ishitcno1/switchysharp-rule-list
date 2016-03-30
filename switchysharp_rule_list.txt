@@ -116,10 +116,11 @@
 *://*.youtu.be/*
 *://*.ytimg.com/*
 
-*://fbinfer.com/*
-*://*.facebook.com
-*://*.facebook.net
-*://*.fbcdn.net
+*://*.fbinfer.com/*
+*://*.facebook.com/*
+*://*.facebook.net/*
+*://*.fbcdn.net/*
+*://*.fb.me/*
 
 *://*.cloudfront.net
 
