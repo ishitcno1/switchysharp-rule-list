@@ -121,6 +121,7 @@
 *://*.facebook.net/*
 *://*.fbcdn.net/*
 *://*.fb.me/*
+*://makeitopen.com/*
 
 *://*.cloudfront.net
 
