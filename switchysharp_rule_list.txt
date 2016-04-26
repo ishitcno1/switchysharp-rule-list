@@ -1,6 +1,7 @@
 #BEGIN
 
 [wildcard]
+*://*.sendgrid.com/*
 *://*.wistia.net/*
 
 *://*.nuclide.io/*
