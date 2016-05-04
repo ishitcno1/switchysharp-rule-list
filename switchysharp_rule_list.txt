@@ -1,6 +1,8 @@
 #BEGIN
 
 [wildcard]
+*://*.reuters.com/*
+
 *://*.sendgrid.com/*
 *://*.wistia.net/*
 
