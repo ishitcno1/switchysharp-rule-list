@@ -63,6 +63,8 @@
 *://*.gstatic.com/*
 *://*.googlesyndication.com/*
 *://*.googleusercontent.com/*
+*://*.googlesource.com/*
+
 *://*.tiltbrush.com/*
 
 *://www.imdb.com/*
