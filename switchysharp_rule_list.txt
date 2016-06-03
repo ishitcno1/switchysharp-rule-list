@@ -1,6 +1,8 @@
 #BEGIN
 
 [wildcard]
+*://*.wejs.org/*
+
 *://*.trello.com/*
 
 *://*.reuters.com/*
