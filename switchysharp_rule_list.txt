@@ -1,6 +1,7 @@
 #BEGIN
 
 [wildcard]
+*://*.medium.com/*
 
 *://*.wejs.org/*
 
