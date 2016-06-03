@@ -1,10 +1,12 @@
 #BEGIN
 
 [wildcard]
+
 *://*.wejs.org/*
 
 *://*.trello.com/*
 
+*://*.bloomberg.com/*
 *://*.reuters.com/*
 
 *://*.sendgrid.com/*
