@@ -45,7 +45,7 @@
 *://*.blogspot.dk/*
 *://*.blogspot.sg/*
 
-*://dangrover.com/*
+*://*.dangrover.com/*
 *://*.dryicons.com/*
 
 *://*.endmemo.com/*
@@ -104,8 +104,8 @@
 *://cdn.sstatic.net/*
 *://stackoverflow.com/*
 
-*://t.co/*
-*://twitter.com/*
+*://*.t.co/*
+*://*.twitter.com/*
 *://*.typekit.com/*
 *://*.typekit.net/*
 
@@ -113,15 +113,15 @@
 *://www.udacity.com/*
 
 *://*.v2ex.com/*
-*://www.varaneckas.com/*
+*://*.varaneckas.com/*
 
 *://*.webmproject.org/*
-*://zh.wikipedia.org/*
+*://*.wikipedia.org/*
 *://*.wordpress.com/*
-*://www.wretch.cc/*
+*://*.wretch.cc/*
 *://*.wsj.com/*
 
-*://forum.xda-developers.com/*
+*://*.xda-developers.com/*
 *://blog.xuite.net/*
 
 *://tw.knowledge.yahoo.com/*
