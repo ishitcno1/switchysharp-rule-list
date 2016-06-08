@@ -58,6 +58,7 @@
 *://*.github.io/*
 *://git-scm.com/*
 
+*://*.golang.org/*
 *://*.firebase.com/*
 *://goo.gl/*
 *://code.google.com/*
