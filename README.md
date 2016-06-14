@@ -19,7 +19,9 @@ https://raw.githubusercontent.com/hanqin/switchysharp-rule-list/master/switchysh
 * 点击Download Profile Now
 * 点击左侧的Apply Changes(重要, 千万别忘了!)
 
-一图胜千言 ![示例](./sample.png)
+一图胜千言 
+![示例](./sample.png)
+
 Done!
 
 Contribute
