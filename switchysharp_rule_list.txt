@@ -1,6 +1,8 @@
 #BEGIN
 
 [wildcard]
+*://*.netflix.com/*
+
 *://*.medium.com/*
 
 *://*.wejs.org/*
