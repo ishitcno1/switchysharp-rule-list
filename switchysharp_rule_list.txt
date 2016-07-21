@@ -40,6 +40,7 @@
 *://*.androidexample.com/*
 *://*.appspot.com/*
 *://*.asana.com/*
+*://*.astrill.com/*
 
 *://*.bit.ly/*
 *://*.blogger.com/*
