@@ -1,6 +1,20 @@
 #BEGIN
 
 [wildcard]
+*://*.netflix.com/*
+
+*://*.medium.com/*
+
+*://*.wejs.org/*
+
+*://*.trello.com/*
+
+*://*.bloomberg.com/*
+*://*.reuters.com/*
+
+*://*.sendgrid.com/*
+*://*.wistia.net/*
+
 *://*.nuclide.io/*
 
 *://*strongloop.com/*
@@ -33,7 +47,7 @@
 *://*.blogspot.dk/*
 *://*.blogspot.sg/*
 
-*://dangrover.com/*
+*://*.dangrover.com/*
 *://*.dryicons.com/*
 
 *://*.endmemo.com/*
@@ -45,6 +59,9 @@
 *://*.github.com/*
 *://*.github.io/*
 *://git-scm.com/*
+
+*://*.golang.org/*
+*://*.firebase.com/*
 *://goo.gl/*
 *://code.google.com/*
 *://*.google.com/*
@@ -56,6 +73,8 @@
 *://*.gstatic.com/*
 *://*.googlesyndication.com/*
 *://*.googleusercontent.com/*
+*://*.googlesource.com/*
+
 *://*.tiltbrush.com/*
 
 *://www.imdb.com/*
@@ -88,8 +107,10 @@
 *://cdn.sstatic.net/*
 *://stackoverflow.com/*
 
-*://t.co/*
-*://twitter.com/*
+*://*.t.co/*
+*://*.twitter.com/*
+*://*.crashlytics.io/*
+
 *://*.typekit.com/*
 *://*.typekit.net/*
 
@@ -97,15 +118,15 @@
 *://www.udacity.com/*
 
 *://*.v2ex.com/*
-*://www.varaneckas.com/*
+*://*.varaneckas.com/*
 
 *://*.webmproject.org/*
-*://zh.wikipedia.org/*
+*://*.wikipedia.org/*
 *://*.wordpress.com/*
-*://www.wretch.cc/*
+*://*.wretch.cc/*
 *://*.wsj.com/*
 
-*://forum.xda-developers.com/*
+*://*.xda-developers.com/*
 *://blog.xuite.net/*
 
 *://tw.knowledge.yahoo.com/*
@@ -114,10 +135,12 @@
 *://*.youtu.be/*
 *://*.ytimg.com/*
 
-*://fbinfer.com/*
-*://*.facebook.com
-*://*.facebook.net
-*://*.fbcdn.net
+*://*.fbinfer.com/*
+*://*.facebook.com/*
+*://*.facebook.net/*
+*://*.fbcdn.net/*
+*://*.fb.me/*
+*://makeitopen.com/*
 
 *://*.cloudfront.net
 
